@@ -38,13 +38,13 @@ from sklearn.cluster import KMeans
 
 # Konfigurasi Halaman
 st.set_page_config(
-    page_title="TAS Machine Learning & MongoDB",
+    page_title="TAS Streamlit: Machine Learning & MongoDB",
     page_icon="🤖",
     layout="wide",
 )
 
 st.title("🤖 TES AKHIR SEMESTER: MACHINE LEARNING & MONGODB")
-st.markdown("Aplikasi Web Streamlit: **Regresi, Klasifikasi, Clustering, MongoDB CRUD + Retrain, & Komentar Publik**")
+st.markdown("Aplikasi Web Streamlit: **Regresi, Klasifikasi, Clustering, MongoDB Retrain & Komentar Publik**")
 st.markdown("---")
 
 
